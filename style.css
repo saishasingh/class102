@@ -1,0 +1,14 @@
+body{
+    background-color:pink;
+    font-family: 'Koulen', cursive;
+   
+}
+.heading{
+
+    font-size: 60px;
+ color: deeppink;
+    font-family: cursive;
+}
+label{
+    color: deeppink;
+}
